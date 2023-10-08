@@ -1,0 +1,8 @@
+apiVersion: v2
+# Placeholder (substitution in CI via cli args)
+appVersion: 0.0.1
+description: This is simple chart for creating image pull secret.
+name: image-pull-secret
+type: application
+# Placeholder (substitution in CI via cli args)
+version: 0.0.1

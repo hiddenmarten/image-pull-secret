@@ -1,0 +1,14 @@
+# -- User for access to docker registry host
+user: ""
+
+# -- Password for access to docker registry host
+password: ""
+
+# -- Docker registry url
+host: ""
+
+# -- Helm chart name override
+nameOverride: ""
+
+# -- Full name override (Helm chart and release names)
+fullnameOverride: ""
